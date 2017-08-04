@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Himanshu\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx\1.9.6\47d1e9b890e364ec28f128e9bb3b9a12a94c164\gdx-1.9.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="047d1e9b890e364ec28f128e9bb3b9a12a94c164">
+        <dex dex="C:\Users\Himanshu\Downloads\test\android\build\intermediates\pre-dexed\debug\gdx-1.9.6_f54af8dc154c527c93d52091a830a77918f79f02.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Himanshu\Downloads\test\core\build\libs\core-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="126ff6ee6f3f70669d98f2e57c94bcec75e1b44b">
+        <dex dex="C:\Users\Himanshu\Downloads\test\android\build\intermediates\pre-dexed\debug\core-1.0_3b1d1de1bdb99299ea7b32005647fce1dc001691.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Himanshu\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-backend-android\1.9.6\57c2831c870743712b808384187ea856e541878f\gdx-backend-android-1.9.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="57c2831c870743712b808384187ea856e541878f">
+        <dex dex="C:\Users\Himanshu\Downloads\test\android\build\intermediates\pre-dexed\debug\gdx-backend-android-1.9.6_b8b3f3c311e9fc223df9620169bffc5ddd3fae48.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Himanshu\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-box2d\1.9.6\c249ef4060a4fada952f278455c8f7b9cba3c18a\gdx-box2d-1.9.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="c249ef4060a4fada952f278455c8f7b9cba3c18a">
+        <dex dex="C:\Users\Himanshu\Downloads\test\android\build\intermediates\pre-dexed\debug\gdx-box2d-1.9.6_f1998a50071fefa0c72481ad52f6693d5aa61e67.jar" />
+    </item>
+
+</items>
